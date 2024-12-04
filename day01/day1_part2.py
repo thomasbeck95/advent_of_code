@@ -10,7 +10,7 @@ def main():
     total = 0
     for i in a_arr:
         total += int(i) * b_arr.count(i)
-    print(total)
+    print(total) #23963899
 
 if __name__ == '__main__':
     main()
