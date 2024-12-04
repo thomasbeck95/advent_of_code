@@ -4,6 +4,11 @@ def main():
     for item in l:
         if inc_des(item) and diff(item):
             count += 1
+        else:
+            for i in range(len(item)):
+                if inc_des(item[:i] + item[i+1:]) and diff(item[:i] + item[i+1:]):
+                    count += 1
+                    break
     print(count)
 
 
