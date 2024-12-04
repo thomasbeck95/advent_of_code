@@ -43,4 +43,4 @@ def initial():
 
 
 if __name__ == "__main__":
-    main() #ans = 572
+    main() #ans = 612
