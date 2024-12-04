@@ -8,9 +8,9 @@
 
 </code></pre>
 
-### Advent of Code 🎄
+<h1> Advent of Code 🎄</h1>
 
-<h2>--- Day 1: Historian Hysteria ---</h2>
+<h3>--- Day 1: Historian Hysteria ---</h3>
 <br>
 The Chief Historian is always present for the big Christmas sleigh launch, but nobody has seen him in months! Last anyone heard, he was visiting locations that are historically significant to the North Pole; a group of Senior Historians has asked you to accompany them as they check the places they think he was most likely to visit.
 <be>
@@ -53,7 +53,8 @@ Your actual left and right lists contain many location IDs. What is the total di
 <br>
 Your puzzle answer was 2970687.
 <br>
-###--- Part Two ---
+<h3>
+--- Part Two ---</h3>
 <br>
 Your analysis only confirmed what everyone feared: the two lists of location IDs are indeed very different.
 <br>
