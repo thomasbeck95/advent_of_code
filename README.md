@@ -14,6 +14,7 @@
 
 Feel free to explore, suggest improvements, or discuss alternative approaches!
 
+<pre class="notranslate"><code>  
     ${star}
    /.\\
   /${o}..\\
@@ -23,3 +24,4 @@ Feel free to explore, suggest improvements, or discuss alternative approaches!
 /..${q}....\\
 ^^^[_]^^^
 "
+</code></pre>
