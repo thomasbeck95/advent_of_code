@@ -15,13 +15,14 @@
 Feel free to explore, suggest improvements, or discuss alternative approaches!
 
 <pre class="notranslate"><code>  
-    ${star}
+           
+    *
    /.\\
-  /${o}..\\
-  /..${p}\\
- /.${q}..${o}\\
- /...${p}.\\
-/..${q}....\\
+  /o..\\
+  /..o\\
+ /.o..o\\
+ /...o.\\
+/..o....\\
 ^^^[_]^^^
-"
+           
 </code></pre>
